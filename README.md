@@ -35,4 +35,4 @@ Your solution must use only constant extra space.
 ## final Solution
 [LeetCode](https://leetcode.com/submissions/detail/709676646/)
 
-[![Run on Repl.it](https://repl.it/badge/github/oscharko/JS-LeetCode-167-Two-Sum-II-Input-Array-Is-Sorted)](https://replit.com/@oscharko/JS-LeetCode-167-Two-Sum-II-Input-Array-Is-Sorted)
+[![Run on Repl.it](https://repl.it/badge/github/oscharko/TS-LeetCode-167-Two-Sum-II-Input-Array-Is-Sorted)](https://replit.com/@oscharko/TS-LeetCode-167-Two-Sum-II-Input-Array-Is-Sorted)
