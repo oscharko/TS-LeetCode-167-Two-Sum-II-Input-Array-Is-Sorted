@@ -29,7 +29,10 @@ Your solution must use only constant extra space.
 - -1000 <= target <= 1000
 - The tests are generated such that there is **exactly one solution.**
 
-## final Solution with foor loop
+## first Solution
 [LeetCode](https://leetcode.com/submissions/detail/709665947/)
+
+## final Solution
+[LeetCode](https://leetcode.com/submissions/detail/709676646/)
 
 [![Run on Repl.it](https://repl.it/badge/github/oscharko/JS-LeetCode-167-Two-Sum-II-Input-Array-Is-Sorted)](https://replit.com/@oscharko/JS-LeetCode-167-Two-Sum-II-Input-Array-Is-Sorted)
