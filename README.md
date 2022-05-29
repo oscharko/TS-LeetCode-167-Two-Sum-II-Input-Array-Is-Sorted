@@ -30,6 +30,6 @@ Your solution must use only constant extra space.
 - The tests are generated such that there is **exactly one solution.**
 
 ## final Solution with foor loop
-[LeetCode]()
+[LeetCode](https://leetcode.com/submissions/detail/709665947/)
 
 [![Run on Repl.it](https://repl.it/badge/github/oscharko/JS-LeetCode-167-Two-Sum-II-Input-Array-Is-Sorted)](https://replit.com/@oscharko/JS-LeetCode-167-Two-Sum-II-Input-Array-Is-Sorted)

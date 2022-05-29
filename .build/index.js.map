@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "sources": [],
-  "sourcesContent": [],
-  "mappings": "",
+  "sources": ["../index.ts"],
+  "sourcesContent": ["let numbers = [2, 7, 11, 15], target = 9\n\nfunction twoSum(numbers: number[], target: number): number[] {\n  let left = 0, right = numbers.length - 1\n  while (left < right) {\n    if ((numbers[left] + numbers[right]) === target) {\n      return [left + 1, right + 1]\n    } else if ((numbers[left] + numbers[right]) < target) {\n      left++\n    } else {\n      right--\n    }\n  }\n  return numbers\n}\n\nconsole.log(twoSum(numbers, target))"],
+  "mappings": "AAAA,IAAI,UAAU,CAAC,GAAG,GAAG,IAAI,KAAK,SAAS;AAEvC,gBAAgB,UAAmB,SAA0B;AAC3D,MAAI,OAAO,GAAG,QAAQ,SAAQ,SAAS;AACvC,SAAO,OAAO,OAAO;AACnB,QAAK,SAAQ,QAAQ,SAAQ,WAAY,SAAQ;AAC/C,aAAO,CAAC,OAAO,GAAG,QAAQ;AAAA,eAChB,SAAQ,QAAQ,SAAQ,SAAU,SAAQ;AACpD;AAAA,WACK;AACL;AAAA;AAAA;AAGJ,SAAO;AAAA;AAGT,QAAQ,IAAI,OAAO,SAAS;",
   "names": []
 }
